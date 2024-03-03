@@ -13,6 +13,7 @@ export const App = () =>{
                     <TooltipComponent>
                         <Button>
                             <FiSettings/>
+                            <p>Hacen falta los estilos<p/>
                         </Button>
                     </TooltipComponent>
                 </div>
